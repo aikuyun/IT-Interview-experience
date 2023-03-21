@@ -8,8 +8,7 @@
 > 个人整理的 2019 & 2020的秋招汇总，按技术和非技术分类。持续更新中...
 
 
-欢迎关注我的个人公众号 **cuteximi**，分享**大数据**等相关技术，来一起成长吧！<br />![公众号.jpeg](https://cdn.nlark.com/yuque/0/2019/jpeg/199648/1568809554289-e44f7163-2c75-46ff-9c5c-3b85967fa6e8.jpeg#align=left&display=inline&height=373&name=%E5%85%AC%E4%BC%97%E5%8F%B7.jpeg&originHeight=776&originWidth=748&size=125691&status=done&width=360)
-
+欢迎关注我的个人公众号 **大数据学习指南**，分享**大数据**等相关技术，来一起成长吧！<br />![公众号.jpeg](follow.png)
 
 **技术：**<br />**Java****、C++、Python、IOS、Go、安卓、测试&amp;测开**<br />**大数据、安全、运维、前端、游戏研发、数据挖掘**<br />**算法、机器学习、架构、全栈、嵌入式、数据分析**
 
